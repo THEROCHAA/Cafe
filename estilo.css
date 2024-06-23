@@ -1,0 +1,19 @@
+.topo{
+	display: flex;
+    justify-content: space-between;
+    background-color: #604829;
+	position: fixed;
+}
+
+.logo{
+   width: 80px;
+   
+    
+   
+}
+
+.info{
+margin-left: 1500px;
+margin-bottom: 50px;
+	
+}
